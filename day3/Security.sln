@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integriteit", "Integriteit\Integriteit.csproj", "{6C1EAC6B-012F-417A-BBBA-4F56B6CB7097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertrouwelijk", "Vertrouwelijk\Vertrouwelijk.csproj", "{0CD0A284-AE25-44E3-8148-BC60E615EAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1EAC6B-012F-417A-BBBA-4F56B6CB7097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1EAC6B-012F-417A-BBBA-4F56B6CB7097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1EAC6B-012F-417A-BBBA-4F56B6CB7097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1EAC6B-012F-417A-BBBA-4F56B6CB7097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD0A284-AE25-44E3-8148-BC60E615EAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD0A284-AE25-44E3-8148-BC60E615EAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD0A284-AE25-44E3-8148-BC60E615EAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD0A284-AE25-44E3-8148-BC60E615EAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
